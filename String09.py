@@ -8,4 +8,4 @@ def main(x1,x2,x3):
     Returns:
         str: return answer.
     """
-    return 
+    return f'[{x1}, {x2}, {x3}]'
